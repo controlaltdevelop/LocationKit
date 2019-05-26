@@ -192,13 +192,11 @@
 				TargetAttributes = {
 					B4906EF51E13A59B00BCDEEA = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = JL6VSLQ554;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
 					B4906EFE1E13A59B00BCDEEA = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = Y3YDLKH37F;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -416,7 +414,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = JL6VSLQ554;
+				DEVELOPMENT_TEAM = "";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -439,7 +437,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = JL6VSLQ554;
+				DEVELOPMENT_TEAM = "";
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -459,7 +457,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = Y3YDLKH37F;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = LocationKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = joe.LocationKitTests;
@@ -472,7 +470,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = Y3YDLKH37F;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = LocationKitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = joe.LocationKitTests;
